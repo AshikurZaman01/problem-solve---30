@@ -14,3 +14,5 @@ for (const x of square) {
 
 const avg = sum / square.length;
 console.log(avg.toFixed(2))
+
+
